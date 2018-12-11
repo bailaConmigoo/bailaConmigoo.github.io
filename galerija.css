@@ -1,6 +1,6 @@
 body{
 	font-family: sans-serif;
-	background: url('Slike/pzg.jpg') fixed no-repeat;  
+	background: url('Slike/on1.jpg') fixed no-repeat;  
         background-size: cover;
         margin:0;
         background-position: center;
@@ -25,7 +25,7 @@ ul{
        }
 .nav a{
         width: 150px;
-        color:white;
+        color:grey;
         display: block;
         text-decoration: none;
         font-size:20px;
@@ -78,7 +78,7 @@ h1{
         width: auto;
         padding: 16px;
         margin-top: -50px;
-        color: white;
+        color: black;
         font-weight: bold;
         font-size: 20px;
         border-radius: 0 3px 3px 0;
