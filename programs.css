@@ -49,7 +49,7 @@ ul{
    transition: 0.6s;
 }
 .strana1 {
-    background-image: url('Slike/programs.jpg');
+    background-image: url('slike/programs.jpg');
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -64,7 +64,7 @@ ul{
   text-shadow: 0px 0px 20px black;
 }
 .strana2{
-  background-image: url('Slike/bachata.jpg');
+  background-image: url('slike/bachata.jpg');
   height: auto;
     background-attachment: fixed;
     background-position: center;
@@ -90,7 +90,7 @@ ul{
   text-shadow: 0px 0px 20px black;
 }
 .strana3{  
-    background-image: url('Slike/kizomba.jpg');
+    background-image: url('slike/kizomba.jpg');
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -104,7 +104,7 @@ ul{
   text-shadow: 0px 0px 20px black;
 }
 .strana4{
-    background-image: url('Slike/salsa.jpg');
+    background-image: url('slike/salsa.jpg');
     height: auto;
     background-attachment: fixed;
     background-position: center;
@@ -118,7 +118,7 @@ ul{
   text-shadow: 0px 0px 20px black;
 }
 .strana5{
-    background-image: url('Slike/rege.jpg');
+    background-image: url('slike/rege.jpg');
     height: auto;
     background-attachment: fixed;
     background-position: center;
