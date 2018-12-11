@@ -34,7 +34,7 @@ ul{
        }
 .nav a{
         width: 150px;
-        color:white;
+        color:grey;
         display: block;
         text-decoration: none;
         font-size:20px;
@@ -49,17 +49,13 @@ ul{
    transition: 0.6s;
 }
 .strana1 {
-    background-image: url('slike/programs.jpg');
-    height: 800px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
 }
 
 #sadrzaj2{
   margin: 0px 150px 0px 150px;
   padding: 150px 0px 150px 0px;
-  color: white;
+  color: black;
   text-shadow: 0px 0px 20px black;
 }
 .strana2{
@@ -85,7 +81,7 @@ ul{
 #sadrzaj3{
   margin: 0px 150px 0px 150px;
   padding: 150px 0px 150px 0px;
-  color: white;
+  color: black;
   text-shadow: 0px 0px 20px black;
 }
 .strana3{  
@@ -99,7 +95,7 @@ ul{
 #sadrzaj4{
   margin: 0px 150px 0px 150px;
   padding: 150px 0px 150px 0px;
-  color: white;
+  color: black;
   text-shadow: 0px 0px 20px black;
 }
 .strana4{
@@ -113,7 +109,7 @@ ul{
 #sadrzaj5{
   margin: 0px 150px 0px 150px;
   padding: 150px 0px 150px 0px;
-  color: white;
+  color: black;
   text-shadow: 0px 0px 20px black;
 }
 .strana5{
