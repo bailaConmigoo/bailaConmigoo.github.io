@@ -1,0 +1,88 @@
+body{
+	font-family: sans-serif;
+	background: url('Slike/pzg.jpg') fixed no-repeat;  
+        background-size: cover;
+        margin:0;
+        background-position: center;
+        background-attachment: fixed;
+}
+
+.nav{
+        width: 100%
+        background:#000033;
+        height: 100px;
+        opacity: 100;
+}
+ul{
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          position: absolute;
+       }
+       li{
+        float:left;
+        margin-top:10px;
+       }
+.nav a{
+        width: 150px;
+        color:white;
+        display: block;
+        text-decoration: none;
+        font-size:20px;
+        text-align: center;
+        padding:10px;
+        border-radius: 10px;
+        font-family: Century Gothic;
+        font-weight: bold;
+}
+  .nav a:hover{
+   background:#ff0000;
+   transition: 0.6s;
+}
+h1{
+	text-align: center;
+	color:forestgreen;
+	margin:30px 0 50px;
+	font-family:Arial Black;
+}
+.gallery{
+	margin:10px 50px;
+}
+.gallery img{
+	width: 800px;
+	padding: 5px;
+	transition: 4s;
+}
+.gallery img a:hover{
+	filter:grayscale(0);
+	transform: scale(1.1);
+}
+
+
+
+    .mySlides {
+        display: none;
+      }
+      
+      
+      .cursor {
+        cursor: pointer;
+      }
+      
+     
+      .prev,
+      .next {
+        cursor: pointer;
+        position: absolute;
+        top: 40%;
+        width: auto;
+        padding: 16px;
+        margin-top: -50px;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+        -webkit-user-select: none;
+      }
+      

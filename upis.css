@@ -1,0 +1,152 @@
+body{
+	background: url('slike/upisbcg.jpg')no-repeat center fixed;
+	background-size: cover;
+	margin: 0;
+    height: 100px;
+
+	box-sizing: border-box;
+	box-sizing: border-box;
+	box-sizing: border-box;
+}
+.body{
+    font-family:"Tangerine",serif; font-size:18px;text-shadow: 3px 3px 3px #aaa;
+}
+
+.nav {
+    width: 100%
+    background:#000333;
+    height: 100px;
+    opacity: 100;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+ }
+
+li{
+  float:left;
+  margin-top:10px;
+ }
+.nav a{
+  width: 150px;
+  color:black;
+  display: block;
+  text-decoration: none;
+  font-size:20px;
+  text-align: center;
+  padding:10px;
+  border-radius: 10px;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+.nav a:hover{
+background:#ff0000;
+transition: 0.6s;
+}
+
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color:rgba(52,73,94,0.7);
+	border-radius:4px;
+	margin: 0 auto;
+    margin-top: 150px;
+    margin-left: 10px;
+    font-family:"Tangerine",serif; 
+    font-size:18px;
+    text-shadow: 3px 3px 3px #aaa;
+}
+
+#prijava {
+
+    display:none;
+    
+    }
+.Container2{
+	width: 300px;
+	height: 400px;
+	text-align: left;
+	background-color:whitesmoke;
+    border-radius:30px;
+    border-style: hidden;
+    margin-top: 5px;
+    margin-bottom: 150px;
+    margin-left: 10px;
+    font-family:"Tangerine",serif; 
+    font-size:18px;
+    text-shadow: 3px 3px 3px #aaa;
+}
+    
+input[type="text"], input[type="checkbox"],input[type="radio"],input[type="select"] {
+	height: 25px;
+	width: 60px;
+	
+    
+}
+
+    
+
+ .submit-button{
+        width: auto;
+        height: auto;
+        padding: 12px;
+        font-size: 16px;
+        background: linear-gradient(black,grey);
+        cursor: pointer;
+        color: #fff;
+        border: none;
+        margin-left:5px; 
+     }
+ .submit-button:hover{
+      background: linear-gradient(hsl(0, 10%, 28%),hsl(347, 28%, 40%));
+     
+     }
+
+.button{
+        width: auto;
+        height:auto;
+        padding: 12px;
+        font-size: 16px;
+        background: linear-gradient(#eb8989,hsl(0, 27%, 8%));
+        cursor: pointer;
+        color: #fff;
+        border: none;
+        text-align: center;
+    
+}
+
+.H1{
+    
+    
+    font-family: sans-serif;
+    color:rgb(0, 0, 0);
+    
+}
+
+
+.text {
+    color: black;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 3px rgb(19, 17, 17);
+} 
+
+    
+
+label{
+
+    color: black;
+    font-family: sans-serif;
+    text-shadow: 1px 2px 3px rgb(19, 17, 17);
+    padding-left: 10 px;
+    margin-left: 15 px;
+}
+
+.form-check-input {
+    position: relative;
+    margin-left: 1cm;
+} 

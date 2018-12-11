@@ -1,0 +1,154 @@
+
+body {
+    font-family: "Times New Roman", Times, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.tekst{
+  font-family:"Times New Roman", Times, serif;
+  font-size:30px; 
+}
+
+#sadrzaj1{
+  width: 100%
+  background:#000033;
+  height: 100px;
+  opacity: 100;
+}
+.nav{
+        width: 100%
+        background:#000033;
+        height: 100px;
+        opacity: 100;
+}
+ul{
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          position: absolute;
+       }
+       li{
+        float:left;
+        margin-top:10px;
+       }
+.nav a{
+        width: 150px;
+        color:white;
+        display: block;
+        text-decoration: none;
+        font-size:20px;
+        text-align: center;
+        padding:10px;
+        border-radius: 10px;
+        font-family: Century Gothic;
+        font-weight: bold;
+}
+  .nav a:hover{
+   background:#ff0000;
+   transition: 0.6s;
+}
+.strana1 {
+    background-image: url('Slike/programs.jpg');
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#sadrzaj2{
+  margin: 0px 150px 0px 150px;
+  padding: 150px 0px 150px 0px;
+  color: white;
+  text-shadow: 0px 0px 20px black;
+}
+.strana2{
+  background-image: url('Slike/bachata.jpg');
+  height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.naslov{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color:#fff;
+    top:200px;
+}
+.naslov h1{
+    font-size: 52px;
+    margin:25px;
+}
+
+#sadrzaj3{
+  margin: 0px 150px 0px 150px;
+  padding: 150px 0px 150px 0px;
+  color: white;
+  text-shadow: 0px 0px 20px black;
+}
+.strana3{  
+    background-image: url('Slike/kizomba.jpg');
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+#sadrzaj4{
+  margin: 0px 150px 0px 150px;
+  padding: 150px 0px 150px 0px;
+  color: white;
+  text-shadow: 0px 0px 20px black;
+}
+.strana4{
+    background-image: url('Slike/salsa.jpg');
+    height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+#sadrzaj5{
+  margin: 0px 150px 0px 150px;
+  padding: 150px 0px 150px 0px;
+  color: white;
+  text-shadow: 0px 0px 20px black;
+}
+.strana5{
+    background-image: url('Slike/rege.jpg');
+    height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+p {
+  font-size: 20px;
+  }
+
+.footer{
+    color: white;
+    background-color: #111;
+    padding: 10px 10px 10px 10px;
+}
+
+#btn{
+  font-size: 18px;
+    color:rgb(114, 38, 38);
+    letter-spacing: 2px;
+    margin:5px auto;
+    padding:7px 28px;
+    text-decoration: none;
+    border:1px solid #DC143C;
+    border-radius: 25px;
+}
+#btn{
+    
+    transition: 0.6s;
+    
+}
+
